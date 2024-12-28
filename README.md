@@ -1,3 +1,6 @@
+<img src="https://github-readme-stats.vercel.app/api?username=MarsMyth&theme=maroongold&show_icons=true&hide_border=true&count_private=true" alt="MarsMyth's GitHub Stats" />
+
+<!--
 - 👋 Hi, I’m @MarsMyth (Just call me Myth)
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScipt and GDscript
